@@ -1,0 +1,41 @@
+UXBERT usability Lab, Project (Ateeq)
+
+Documentation of Movie Project 
+
+UI Library used:
+1)Native Base
+
+Dependencies Used:
+1)React Native responsive screen
+2)React Native vector icons
+3)React Navigation
+
+Project Folder Contents:
+
+Files 
+App.js
+app.json
+babel.config.js
+index.js
+metro.config.js
+package.json
+yarn.lock
+
+Folders
+iOS
+android 
+src folder
+screenshots
+
+Instruction to Generate Project 
+1. Open Terminal for macOS or Cmd for Windows Pc
+2. Drag Project folder in terminal or browse it in terminal after wards
+3. Type in terminal “npm install”
+4. After typing press Enter.
+
+Instruction to Run Project
+1. After completion of generating project
+2. In terminal type “react-native run-ios” or “react-native run-android” 
+3. OR easiest way open Xcode or Android Studio and browse appropriate folder to run iOS or Android project.
+
+      
