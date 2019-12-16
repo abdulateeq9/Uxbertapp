@@ -26,6 +26,8 @@ iOS
 android 
 src folder
 screenshots
+native-base-theme
+_test_
 
 Instruction to Generate Project 
 1. Open Terminal for macOS or Cmd for Windows Pc
